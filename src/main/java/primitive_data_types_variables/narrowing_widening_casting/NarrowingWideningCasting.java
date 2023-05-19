@@ -19,5 +19,26 @@ public class NarrowingWideningCasting {
         byte b = (byte) a;
         System.out.println(b);
 
+        /* ---------- Underscores and alternative number systems ----------*/
+
+        /* ---------- Underscores ------------ */
+
+        int c = 1_000_000;
+        System.out.println(c);
+
+        /* ---------- Alternative number systems , 100 represented in 4 systems ------------ */
+        int w = 100; // decimal
+        int x = 0144; // octal
+        int y = 0x0064; // hexadecimal
+        int z = 0b1100100; // binary
+
+        if (w == x && x == y && y == z) {
+            System.out.println("we are equals");
+        }
+
+        /* --------- underscores with the alternative number systems -------------- */
+        int f = 0x00_64; // hexadecimal of 100 in decimal
+        System.out.println(f);
+
     }
 }
