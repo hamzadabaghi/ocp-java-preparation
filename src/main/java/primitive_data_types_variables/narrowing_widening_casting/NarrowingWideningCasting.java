@@ -40,5 +40,10 @@ public class NarrowingWideningCasting {
         int f = 0x00_64; // hexadecimal of 100 in decimal
         System.out.println(f);
 
+        /* ---------- scientific notation ---------------*/
+        double lightSpeed = 5.88e12;
+        float diameterHydr = 5.0e-8f;
+        System.out.println(diameterHydr);
+
     }
 }
