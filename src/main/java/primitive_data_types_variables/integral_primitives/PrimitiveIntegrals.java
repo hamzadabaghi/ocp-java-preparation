@@ -15,7 +15,7 @@ public class PrimitiveIntegrals {
         int maxValueInt = Integer.MAX_VALUE;
         int minValueInt = Integer.MIN_VALUE;
 
-        /*-------- long : 4 bytes --------*/
+        /*-------- long : 8 bytes --------*/
         long maxValueLong = Long.MAX_VALUE;
         long minValueLong = Long.MIN_VALUE;
 
