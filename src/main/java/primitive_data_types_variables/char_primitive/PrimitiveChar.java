@@ -16,7 +16,7 @@ public class PrimitiveChar {
         System.out.println(aLetter == 65 && aUnicode == 65);
 
         /*---------- if you used double quotes on characters they become strings -------------*/
-        char aString = "a";
+        //char aString = "a";
 
     }
 }
