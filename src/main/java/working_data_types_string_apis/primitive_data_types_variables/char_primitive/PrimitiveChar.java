@@ -1,4 +1,4 @@
-package primitive_data_types_variables.char_primitive;
+package working_data_types_string_apis.primitive_data_types_variables.char_primitive;
 
 public class PrimitiveChar {
 

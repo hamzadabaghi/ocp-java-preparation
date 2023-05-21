@@ -1,4 +1,4 @@
-package operators_math_apis.assignment_operators;
+package working_data_types_string_apis.operators_math_apis.assignment_operators;
 
 public class AssignmentOperator {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package operators_math_apis.ternary_operator_others;
+package working_data_types_string_apis.operators_math_apis.ternary_operator_others;
 
 public class TernaryOperatorAndOthers {
 

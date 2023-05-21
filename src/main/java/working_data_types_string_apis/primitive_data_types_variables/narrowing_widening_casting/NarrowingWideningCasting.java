@@ -1,4 +1,4 @@
-package primitive_data_types_variables.narrowing_widening_casting;
+package working_data_types_string_apis.primitive_data_types_variables.narrowing_widening_casting;
 
 public class NarrowingWideningCasting {
     public static void main(String[] args) {
