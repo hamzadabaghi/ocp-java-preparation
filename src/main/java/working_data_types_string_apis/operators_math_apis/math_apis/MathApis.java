@@ -1,4 +1,4 @@
-package operators_math_apis.math_apis;
+package working_data_types_string_apis.operators_math_apis.math_apis;
 
 public class MathApis {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package operators_math_apis.arithmetic_operators_promotion;
+package working_data_types_string_apis.operators_math_apis.arithmetic_operators_promotion;
 
 public class ArithmeticOperatorsAndPromotion {
     public static void main(String[] args) {

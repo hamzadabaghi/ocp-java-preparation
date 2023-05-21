@@ -1,4 +1,4 @@
-package primitive_data_types_variables.variables_vs_fields;
+package working_data_types_string_apis.primitive_data_types_variables.variables_vs_fields;
 
 import java.util.Random;
 

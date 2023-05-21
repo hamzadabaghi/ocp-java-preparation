@@ -1,4 +1,4 @@
-package operators_math_apis.operations_order;
+package working_data_types_string_apis.operators_math_apis.operations_order;
 
 public class OperationsOrder {
     public static void main(String[] args) {

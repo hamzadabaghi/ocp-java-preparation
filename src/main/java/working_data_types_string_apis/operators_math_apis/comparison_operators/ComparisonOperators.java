@@ -1,4 +1,4 @@
-package operators_math_apis.comparison_operators;
+package working_data_types_string_apis.operators_math_apis.comparison_operators;
 
 public class ComparisonOperators {
 

@@ -1,4 +1,4 @@
-package operators_math_apis.pre_post_unary_operators;
+package working_data_types_string_apis.operators_math_apis.pre_post_unary_operators;
 
 public class PrePostUnaryOperators {
     public static void main(String[] args) {
