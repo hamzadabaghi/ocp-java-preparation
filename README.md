@@ -23,3 +23,8 @@ Java 11 Oracle certification
       -  the conversion methods : 3 types
       -  autoboxing and unboxing
       -  custom wrappers
+  - variable rules and scopes
+      -  members and member scopes
+      -  variable naming rules and conventions
+      -  local variable type inference
+      -  varargs
