@@ -1,4 +1,4 @@
-package working_data_types_string_apis.primitive_wrappers;
+package working_data_types_string_apis.primitive_wrappers.wrapper_classes;
 
 public class WrapperClasses {
 
