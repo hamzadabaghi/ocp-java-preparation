@@ -10,6 +10,9 @@ public class MembersAndScopes {
 
     public static void main(String[] args) {
 
-
+        /*------ shadowing ---------- */
+        int i = 12;
+        System.out.println(i); // the local variable is displayed
     }
+
 }
