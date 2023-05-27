@@ -28,3 +28,10 @@ Java 11 Oracle certification
       -  variable naming rules and conventions
       -  local variable type inference
       -  varargs
+  - working with strings, dates, and times
+      -  the immutable string
+      -  the string concatenation
+      -  the string methods
+      -  working with dates and times and formatting them
+
+2- controlling the program flow : 
