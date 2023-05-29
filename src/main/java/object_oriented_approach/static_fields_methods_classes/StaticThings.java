@@ -14,15 +14,16 @@ public class StaticThings {
 
     }
 
+    private void instanceMethod() {
+        staticMethod();
+        System.out.println(a + " FROM INSTANCE METHOD");
+    }
+
     private static void staticMethod() {
         System.out.println(a + " FROM STATIC METHOD");
         // System.out.println(b + "FROM STATIC METHOD"); impossible
     }
 
-    private void instanceMethod() {
-        staticMethod();
-        System.out.println(a + " FROM INSTANCE METHOD");
-    }
 
     static class Engine {
 
